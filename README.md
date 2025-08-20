@@ -7,7 +7,7 @@
 ![AUC ROC](https://img.shields.io/badge/AUC--ROC-0.84-blueviolet)  
 
 ---
-Descripción del proyecto
+## Descripción del proyecto
 
 Los clientes de Beta Bank se están yendo poco a poco cada mes. Dado que es más barato retener a los clientes existentes que adquirir nuevos, el banco busca una solución para anticipar qué clientes están en riesgo de abandonar.
 
@@ -15,10 +15,11 @@ Este proyecto consiste en desarrollar un modelo de Machine Learning que prediga 
 
 ---
 
-Objetivo
-	•	Predecir si un cliente abandonará el banco (Exited).
-	•	Maximizar la métrica F1-score (mínimo requerido: 0.59).
-	•	Comparar el rendimiento con la métrica AUC-ROC.
+## Objetivo
+
+- Predecir si un cliente abandonará el banco (Exited).
+- Maximizar la métrica F1-score (mínimo requerido: 0.59).
+- Comparar el rendimiento con la métrica AUC-ROC.
 
 ---
 
@@ -83,3 +84,11 @@ Objetivo
 - **AUC-ROC (test):** `0.84`  
 
 El modelo final **supera el umbral requerido** y demuestra buen poder de discriminación entre clientes que abandonan y los que permanecen.  
+
+
+
+## 👨‍💻 Autor  
+
+**Gerzon Medina Ortiz**  
+📧 [gerzon13medin@gmail.com](mailto:gerzon13medin@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/gerzon-medina-robotics-datascience)  
